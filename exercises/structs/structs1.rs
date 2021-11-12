@@ -7,7 +7,7 @@ struct ColorClassicStruct {
     hex: String,
 }
 
-struct ColorTupleStruct(/* TODO:Something goes here */ String, String);
+struct ColorTupleStruct(/* TODO: Something goes here */ String, String);
 
 #[derive(Debug)]
 struct UnitStruct;
