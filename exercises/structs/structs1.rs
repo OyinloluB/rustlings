@@ -19,7 +19,7 @@ mod tests {
     #[test]
     fn classic_c_structs() {
         // TODO: Instantiate a classic c struct!
-        // let green =
+        // let green = 
 
         assert_eq!(green.name, "green");
         assert_eq!(green.hex, "#00FF00");
